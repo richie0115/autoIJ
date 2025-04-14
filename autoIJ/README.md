@@ -1,10 +1,4 @@
----
-title: 'AutoIJ'
-disqus: RayJay
----
-
 Auto imageJ script
-===
 ### version ：Snapshot 0.0.1
 #### This is for Lab using, let your muscle relax. 😒
 
